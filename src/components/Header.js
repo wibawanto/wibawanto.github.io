@@ -98,7 +98,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
             <div className={'navBarHeader'}>
               <div
                 className={'headerTitle displayInline'}
-                dangerouslySetInnerHTML={{ __html: 'ANDIKA' }}
+                dangerouslySetInnerHTML={{ __html: '&#43473; ANDIKA WIBAWANTO' }}
               />
             </div>
             {config.header.social ? (
