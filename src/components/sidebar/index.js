@@ -9,9 +9,7 @@ import config from '../../../config';
 const ListItem = styled(({ className, active, level, ...props }) => {
   return (
     <li className={className}>
-      <a href={props.to} {...props} target="_blank" rel="noopener noreferrer">
-        {props.children}
-      </a>
+
     </li>
   );
 })`
