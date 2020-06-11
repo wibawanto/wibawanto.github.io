@@ -30,7 +30,7 @@ const config = {
       '/docker',
     ],
     collapsedNav: [
-      '/aws', // add trailing slash if enabled above
+      '/docker', // add trailing slash if enabled above
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
