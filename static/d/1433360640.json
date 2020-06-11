@@ -1,1 +1,1 @@
-{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/about","title":"About"}}},{"node":{"fields":{"slug":"/docker","title":"Docker"}}},{"node":{"fields":{"slug":"/aws","title":"AWS"}}},{"node":{"fields":{"slug":"/","title":"Resume"}}}]}}}
+{"data":{"allMdx":{"edges":[{"node":{"fields":{"slug":"/docker","title":"Docker"}}},{"node":{"fields":{"slug":"/about","title":"About"}}},{"node":{"fields":{"slug":"/aws","title":"AWS"}}},{"node":{"fields":{"slug":"/","title":"Resume"}}}]}}}
